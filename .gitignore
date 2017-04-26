@@ -1,2 +1,4 @@
 # my configurations:
+*
 *.c
+!*.b
